@@ -10,9 +10,9 @@ public class square {
 	public void test() {
 		
 		ExtendCode test = new ExtendCode();
-		int output= test.square(2);
+		int output= test.square(5);
 		
-		assertEquals(4,output);
+		assertEquals(25,output);
 	}
 
 }
