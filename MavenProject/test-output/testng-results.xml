@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-05-23T23:40:40 PKT" name="Default suite" finished-at="2020-05-23T23:41:29 PKT" duration-ms="48432">
+  <suite started-at="2020-06-19T01:28:02 PKT" name="Default suite" finished-at="2020-06-19T01:29:11 PKT" duration-ms="68522">
     <groups>
     </groups>
-    <test started-at="2020-05-23T23:40:40 PKT" name="Default test" finished-at="2020-05-23T23:41:29 PKT" duration-ms="48432">
+    <test started-at="2020-06-19T01:28:02 PKT" name="Default test" finished-at="2020-06-19T01:29:11 PKT" duration-ms="68522">
       <class name="tests.NewTests">
-        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTests@543588e6]" started-at="2020-05-23T23:40:40 PKT" name="beforeClass" finished-at="2020-05-23T23:40:49 PKT" duration-ms="8176" status="PASS">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTests@543588e6]" started-at="2020-06-19T01:28:02 PKT" name="beforeClass" finished-at="2020-06-19T01:28:09 PKT" duration-ms="6536" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method signature="openMyBlog()[pri:0, instance:tests.NewTests@543588e6]" started-at="2020-05-23T23:40:49 PKT" name="openMyBlog" finished-at="2020-05-23T23:41:27 PKT" duration-ms="38666" status="PASS">
+        <test-method signature="openMyBlog()[pri:0, instance:tests.NewTests@543588e6]" started-at="2020-06-19T01:28:09 PKT" name="openMyBlog" finished-at="2020-06-19T01:29:10 PKT" duration-ms="61081" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openMyBlog -->
-        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTests@543588e6]" started-at="2020-05-23T23:41:27 PKT" name="afterClass" finished-at="2020-05-23T23:41:29 PKT" duration-ms="1510" status="PASS">
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTests@543588e6]" started-at="2020-06-19T01:29:10 PKT" name="afterClass" finished-at="2020-06-19T01:29:11 PKT" duration-ms="824" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
       </class> <!-- tests.NewTests -->
       <class name="tests.NewTest">
-        <test-method signature="newtest()[pri:0, instance:tests.NewTest@f5acb9d]" started-at="2020-05-23T23:41:29 PKT" name="newtest" finished-at="2020-05-23T23:41:29 PKT" duration-ms="3" status="PASS">
+        <test-method signature="newtest()[pri:0, instance:tests.NewTest@f5acb9d]" started-at="2020-06-19T01:29:11 PKT" name="newtest" finished-at="2020-06-19T01:29:11 PKT" duration-ms="3" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- newtest -->
